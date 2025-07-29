@@ -1,9 +1,5 @@
 # ZERODAY SİBER GÜVENLİK VE TEKNOLOJİ PAKETİ
 
-<p align="center">
-  <img src="https://i.imgur.com/YourLogoHere.png" alt="ZERODAY Logo" width="200"/>
-</p>
-
 ## 🔥 ZERODAY NEDİR?
 
 ZERODAY, modern dijital dünyada ihtiyaç duyulan siber güvenlik, teknoloji ve dijital yaşam konularında kapsamlı bilgi ve araçlar sunan bir eğitim paketidir. Başlangıç seviyesinden ileri düzeye kadar geniş bir yelpazede içerik barındıran ZERODAY, hem meraklılar hem de profesyoneller için değerli kaynaklar içerir.

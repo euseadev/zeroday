@@ -1,234 +1,334 @@
-# ZERODAY Bilgi Paketi
+# ZERODAY SİBER GÜVENLİK VE TEKNOLOJİ PAKETİ
 
-## 📚 Proje Hakkında
+<p align="center">
+  <img src="https://i.imgur.com/YourLogoHere.png" alt="ZERODAY Logo" width="200"/>
+</p>
 
-ZERODAY, çeşitli teknoloji, siber güvenlik, sosyal medya ve internet araçları hakkında eğitim amaçlı bilgiler içeren bir bilgi paketidir. Altı farklı versiyon (V1, V2, V3, V4, V5, V6) halinde düzenlenmiş olup, her versiyon farklı konularda rehberler, scriptler ve bilgiler içermektedir.
+## 🔥 ZERODAY NEDİR?
 
-> **ÖNEMLİ UYARI:** Bu pakette yer alan tüm bilgiler ve materyaller sadece eğitim ve bilgilendirme amaçlıdır. Farklı amaçlarla kullanılması durumunda ortaya çıkabilecek herhangi bir zarar, kayıp veya hukuki sorumluluk tamamen kullanıcıya aittir. Hazırlayanlar ve paylaşanlar hiçbir şekilde sorumluluk kabul etmez.
+ZERODAY, modern dijital dünyada ihtiyaç duyulan siber güvenlik, teknoloji ve dijital yaşam konularında kapsamlı bilgi ve araçlar sunan bir eğitim paketidir. Başlangıç seviyesinden ileri düzeye kadar geniş bir yelpazede içerik barındıran ZERODAY, hem meraklılar hem de profesyoneller için değerli kaynaklar içerir.
 
-## 📋 İçerik Özeti
+> **ÖNEMLİ UYARI:** Bu paketteki tüm bilgiler ve materyaller yalnızca eğitim ve bilgilendirme amaçlıdır. İçeriklerin kötüye kullanımından doğabilecek her türlü sorumluluk kullanıcıya aittir.
 
-### ZERODAY-V1
+## 📚 PAKET İÇERİKLERİ
 
-- **Eğitim İçerikleri:** 
-  - Python ile web sitesinden otomatik veri çekme (Web Scraping)
-  - Hacker olma yolları ve siber beceri geliştirme planı
-  - DoS & DDoS saldırıları ve korunma yöntemleri
-  - Anonimlik ve siber dünyada gizlilik rehberi
-  - Etik hackerlık yol haritası
-  - Bug Bounty başlangıç rehberi
-  - Phishing simülasyonu ve kimlik avı rehberi
-  - Tersine mühendislik ve binary analizi
-  - Zafiyet toplama ve OSINT rehberi
-  - Python ile temel log analizi
-  - Web güvenliği test rehberi (Burp Suite)
+### 🛡️ ZERODAY-V1: Temel Dijital Yaşam Paketi
 
-- **Sosyal Medya Rehberleri:** 
-  - **Instagram:** Mavi tik alma, keşfet rehberi, algoritma bilgileri, takipçi kasma, silinen verileri görme
-  - **TikTok:** Keşfete düşme yöntemleri, etiket kullanımı
-  - **WhatsApp:** Yeşil tik methodu, silinen mesajlardaki fotoları bulma
-  - **YouTube:** Doğrulanmış sanatçı rozeti, 4000 saat izlenme bug'ı
-  - **Telegram:** İşe yarayacak botlar listesi
+**Sosyal Medya Optimizasyonu:**
+- Instagram algoritma rehberi ve keşfet stratejileri
+- TikTok keşfete düşme teknikleri ve etiket optimizasyonu
+- YouTube izlenme artırma ve içerik stratejileri
+- WhatsApp gizlilik ve güvenlik ipuçları
 
-- **Mail Servisleri:** 
-  - 25 adet geçici mail sitesi
-  - Geçici EDU mail alma
-  - Sınırsız mail açma yöntemleri
+**Dijital Araçlar:**
+- Geçici mail servisleri ve EDU mail edinme
+- Google Drive sınırsız depolama teknikleri
+- Ücretsiz bulut depolama çözümleri
+- PC performans optimizasyonu
 
-- **Diğer:** 
-  - PC hızlandırma teknikleri
-  - RAR şifre kırma yöntemleri
-  - Google Drive sınırsız depolama
-  - Ücretsiz 1TB depolama
-  - Ücretsiz logo oluşturma
-  - Telefon numarası için sahte "kullanılmıyor" sesi yapma
+**Temel Siber Güvenlik:**
+- Güvenli internet kullanımı rehberi
+- Şifre güvenliği ve yönetimi
+- Kişisel veri koruma stratejileri
+- Sosyal mühendislik farkındalığı
 
-### ZERODAY-V2
+### 🔍 ZERODAY-V2: Dijital Gizlilik ve Araçlar Paketi
 
-- **Sosyal Medya Ekleri:** 
-  - **Discord:** Sunucu tik alma yöntemleri
-  - **Instagram:** Sınırsız hesap oluşturma, ters etiket methodu
+**Gelişmiş Sosyal Medya:**
+- Discord sunucu yönetimi ve optimizasyonu
+- Instagram hesap güvenliği ve yönetimi
+- YouTube Premium özellikleri ve alternatifler
 
-- **Gizlilik:** Programsız IP gizleme yöntemleri
+**Dijital Gizlilik:**
+- IP gizleme ve anonim tarama teknikleri
+- Güvenli mesajlaşma uygulamaları
+- Tarayıcı gizlilik ayarları optimizasyonu
 
-- **Android:** Silinen dosyaları kurtarma teknikleri
+**Faydalı Web Siteleri:**
+- 49+ özel web sitesi koleksiyonu
+- Dosya paylaşım ve dönüştürme servisleri
+- Ücretsiz tasarım ve içerik üretim araçları
 
-- **Faydalı Web Siteleri:** 
-  - Ekran kaydı ve görüntüsü alma
-  - URL kısaltma ve analiz
-  - Dosya paylaşımı ve dönüştürme
-  - Yazı tipi tanıma ve bulma
-  - Web sayfası yazdırma ve düzenleme
-  - Çevrimiçi zamanlayıcı ve saat dilimleri
-  - Çeviri ve OCR hizmetleri
-  - Web performans ölçümü
-  - Ve daha fazlası...
+### 🔐 ZERODAY-V3: Siber Güvenlik Temelleri Paketi
 
-### ZERODAY-V3
+**Siber Güvenlik Eğitimi:**
+- Etik hacking temelleri
+- Güvenlik testleri metodolojisi
+- Zafiyet tarama ve raporlama
 
-- **İleri Siber Güvenlik:** 
-  - Exploit geliştirme ve Buffer Overflow saldırısı
-  - Güvenli kodlama prensipleri ve OWASP 10 rehberi
-  - Malware analizi ve zararlı yazılım davranışı inceleme
-  - Port tarama ve firewall kaçırma teknikleri
-  - Python ile keylogger geliştirme ve korunma yöntemleri
-  - Rootkit mantığı ve sistem gizleme simülasyonu
-  - WAF atlama teknikleri ve payload obfuscation
-  - Web zafiyet tespiti (SQLi & dizin brute force)
-  - Zafiyet sömürme ve Metasploit kullanımı
+**Güvenlik Araçları:**
+- Temel güvenlik araçları kullanım rehberleri
+- Python ile güvenlik scriptleri
+- Açık kaynak istihbarat (OSINT) teknikleri
 
-- **Şifre Kırma:** Hash formatları ve Python brute force scripti
+**Ağ Güvenliği:**
+- Temel ağ protokolleri ve güvenliği
+- Firewall yapılandırma temelleri
+- Güvenli VPN kullanımı
 
-- **OSINT:** Hedef hakkında açık kaynak bilgi toplama rehberi ve Python OSINT scripti
+### 💻 ZERODAY-V4: İleri Siber Güvenlik Teknikleri Paketi
 
-- **Karanlık Web:** Tor ağı üzerinden güvenli gezinme ve Python Tor Route scripti
+**Penetrasyon Testi:**
+- Web uygulama güvenlik testleri
+- Ağ penetrasyon testi metodolojisi
+- Mobil uygulama güvenlik analizi
 
-### ZERODAY-V4
+**Sistem Güvenliği:**
+- Windows ve Linux güvenlik sıkılaştırma
+- Zararlı yazılım analizi temelleri
+- Güvenli sistem yapılandırması
 
-- **İleri Siber Güvenlik Teknikleri:**
-  - Android APK analizi ve tersine mühendislik
-  - Firewall bypass ve port knocking simülasyonu
-  - Kerberoasting ve Active Directory güvenliği
-  - Python RAT geliştirme ve uzaktan komut yönetimi
-  - Reverse shell ve ağ iletişim rehberi
-  - Shellcode injection ve hafıza tabanlı saldırılar
-  - Ağ trafiği dinleme (sniffing) teknikleri
-  - Sosyal mühendislik ve fake mail simülasyonu
-  - Web güvenliği (XSS ve admin panel tespiti)
-  - Wi-Fi kırma, monitor mode ve WPA2 şifre kırma simülasyonu
+**Kablosuz Ağ Güvenliği:**
+- Wi-Fi güvenlik protokolleri
+- Kablosuz ağ güvenlik testleri
+- Bluetooth ve IoT güvenliği
 
-### ZERODAY-V5
+### 📱 ZERODAY-V5: Gelişmiş Dijital Yaşam Paketi
 
-- **Sosyal Medya Gelişmiş Rehberler:**
-  - **Discord:** 1 yıllık Nitro methodu, sınırsız hesap açma, emoji paketleri, sunucu şablonları
-  - **Instagram:** 4 harfli kullanıcı adı alma, 14 gün geçmeden kullanıcı adı değiştirme, silinen DM'leri görme, toplu DM silme, kapatılan hesap açma, 1 dakikalık story atma
-  - **WhatsApp:** Eski mesajları okuma, otomatik cevap verme, yeşil tik methodu, sticker oluşturma
-  - **YouTube:** Bedava premium methodu, 4K methodu, toplu abonelikten çıkma, önerilenlere düşme için taglar
-  - **Spotify:** Premium methodu
+**İleri Sosyal Medya Teknikleri:**
+- Instagram hesap kurtarma ve özel kullanıcı adı alma
+- WhatsApp gelişmiş özellikler ve gizlilik
+- Discord Nitro ve özel sunucu yönetimi
+- YouTube içerik optimizasyonu ve monetizasyon
 
-- **Mail ve Depolama:**
-  - Geçici EDU mail alma
-  - Sınırsız mail açma
-  - Ücretsiz 1TB depolama
+**Dijital İçerik Üretimi:**
+- Ücretsiz grafik tasarım araçları
+- Video düzenleme kaynakları
+- Ses düzenleme ve podcast üretimi
 
-- **Diğer İçerikler:**
-  - Deepweb siteleri listesi
-  - Oyun trolleme için 800+ kız sesi
-  - Karşı PC şifre değiştirme
+**Çevrimiçi Gizlilik:**
+- Gelişmiş tarayıcı yapılandırması
+- Reklam ve takip engelleme
+- Güvenli dosya paylaşımı
 
-### ZERODAY-V6
+### 🛠️ ZERODAY-V6: Programlama ve Sistem Optimizasyonu Paketi
 
-- **Kapsamlı Eğitim Setleri:**
-  - 34 adet detaylı siber güvenlik eğitim seti (V1-V4 içeriklerinin genişletilmiş versiyonları)
-  - Sıfırdan siber güvenlik uzmanlığına rehber
+**Programlama Eğitimleri:**
+- PHP temel ve ileri seviye
+- Python programlama temelleri
+- Web geliştirme başlangıç rehberi
 
-- **Programlama Eğitimleri:**
-  - PHP eğitim seti (25+ konu)
+**Sistem Optimizasyonu:**
+- Windows performans artırma teknikleri
+- Android cihaz optimizasyonu
+- CPU ve RAM optimizasyonu
 
-- **Sistem Optimizasyonu:**
-  - Android yokedici
-  - CPU hızlandırma araçları
-  - PC hızlandırma rehberi (12 adım)
-  - MAC adresi değiştirme aracı
-  - Windows aktivasyon rehberi
+**Siber Güvenlik Eğitim Setleri:**
+- 34+ kapsamlı siber güvenlik eğitimi
+- Sıfırdan siber güvenlik uzmanlığı yol haritası
+- Pratik laboratuvar ortamı kurulumu
 
-- **Sosyal Medya ve Servisler:**
-  - Spotify Premium
-  - WhatsApp yeşil tik methodu
-  - YouTube doğrulanmış sanatçı rozeti ve 4000 saat bug'ı
-  - Instagram keşfet rehberi
-  - Sınırsız Gmail açma
+### 🤖 ZERODAY-V7: Gelişen Teknolojiler Güvenlik Paketi
 
-- **Faydalı Siteler:**
-  - Yapay zeka destekli çizim yapma
-  - Yazıyı sese dönüştürme
-  - Dosya paylaşım siteleri
-  - Ücretsiz logo oluşturma
+**Yapay Zeka Güvenliği:**
+- AI sistemleri güvenlik açıkları
+- Makine öğrenimi model güvenliği
+- Yapay zeka etik ve güvenlik çerçeveleri
 
-## 💻 Python Scriptleri
+**Blockchain ve Kripto:**
+- Kripto para cüzdan güvenliği
+- Akıllı kontrat güvenlik analizi
+- DeFi güvenlik riskleri ve önlemleri
 
-Paket içerisinde çeşitli amaçlar için hazırlanmış Python scriptleri bulunmaktadır:
+**Gelişen Teknolojiler:**
+- IoT cihaz güvenliği
+- Bulut güvenlik stratejileri
+- Quantum bilgisayar güvenlik etkileri
 
-### 🔍 Bilgi Toplama ve Analiz
-- **Web Scraping:** Web sitelerinden otomatik veri çekme (`requests` ve `BeautifulSoup` kütüphaneleri ile)
-- **OSINT Tarayıcı:** Kullanıcı adına göre sosyal medya hesaplarını tarama (Instagram, Twitter, GitHub, Reddit, TikTok, Pinterest, Steam)
-- **Log Analizi:** Sistem ve uygulama loglarını analiz etme ve anormallik tespiti
+### 🕵️ ZERODAY-V8: Tehdit Analizi ve Savunma Paketi
 
-### 🔐 Güvenlik Testleri
-- **Hash Kırma:** SHA-256 hash değerlerini brute force yöntemiyle kırma
-- **Port Tarama:** SYN/UDP tarama ile açık portları tespit etme
-- **Web Zafiyet Tarayıcı:** SQL Injection ve dizin brute force taraması
-- **WAF Bypass:** Web Application Firewall atlatma teknikleri
+**Tehdit İstihbaratı:**
+- Tehdit aktörü profilleme
+- İstihbarat toplama ve analiz
+- Tehdit göstergeleri (IOC) yönetimi
 
-### 🕵️ Simülasyon ve Eğitim
-- **Keylogger Simülasyonu:** Eğitim amaçlı klavye takibi (sadece kendi sistemlerinizde test için)
-- **DoS Simülasyonu:** Servis engelleme saldırısı simülasyonu ve korunma yöntemleri
-- **Phishing Simülasyonu:** Eğitim amaçlı sahte giriş formu oluşturma
+**Savunma Stratejileri:**
+- Savunma derinliği mimarisi
+- Saldırı yüzey analizi ve azaltma
+- Güvenlik kontrolleri optimizasyonu
 
-### 🌐 Ağ ve Gizlilik
-- **Tor Route:** Tor ağı üzerinden HTTP istekleri gönderme
-- **Sistem Gizleme:** Basit rootkit mantığı simülasyonu
+**Operasyonel Güvenlik:**
+- SIEM ve SOC yapılandırması
+- Zararlı yazılım analiz teknikleri
+- Red Team operasyonları
 
-> **Not:** Tüm scriptler eğitim amaçlıdır ve sadece kendi sistemlerinizde veya izin alınmış test ortamlarında kullanılmalıdır. Scriptlerde karakter bozulması olabilir, bu durumda ChatGPT gibi yapay zeka araçlarından destek alınabilir.
+### 🔒 ZERODAY-V9: Veri Güvenliği ve Gizlilik Paketi
 
-## 🔍 Kategoriler ve Fiyatlandırma
+**Veri Koruma:**
+- Veri şifreleme teknolojileri
+- Veri sızıntısı önleme (DLP)
+- Güvenli veri imha yöntemleri
 
-ZERODAY paketi, aşağıdaki kategorilerde bilgiler içermektedir ve her kategorinin tahmini piyasa değeri şu şekildedir:
+**Gizlilik Teknolojileri:**
+- İleri anonim iletişim araçları
+- Metadata temizleme teknikleri
+- Dijital iz yönetimi
 
-### 🛡️ Siber Güvenlik İçerikleri
-- **Temel Seviye (V1):** 150-200 TL
-  - Etik hacking başlangıç, OSINT temelleri, temel güvenlik testleri
-- **Orta Seviye (V2):** 200-250 TL
-  - Zafiyet tespiti, güvenlik araçları kullanımı, IP gizleme
-- **İleri Seviye (V3):** 250-300 TL
-  - Exploit geliştirme, malware analizi, WAF bypass, rootkit mantığı
+**Uyumluluk ve Düzenlemeler:**
+- KVKK ve GDPR uyum stratejileri
+- Veri koruma etki değerlendirmesi
+- Gizlilik odaklı sistem tasarımı
 
-### 📱 Sosyal Medya Rehberleri
-- **Instagram Paketi:** 100-150 TL
-  - Mavi tik alma, keşfet algoritması, takipçi kasma, silinen verileri görme
-- **TikTok & YouTube Paketi:** 80-120 TL
-  - Keşfete düşme, doğrulanmış rozet alma, izlenme artırma
-- **Diğer Platformlar:** 50-100 TL
-  - WhatsApp, Telegram, Discord ipuçları
+### 🏭 ZERODAY-V10: Endüstriyel Kontrol Sistemleri Güvenliği Paketi
 
-### 💻 Programlama ve Scripting
-- **Python Güvenlik Scriptleri:** 200-250 TL
-  - Web scraping, OSINT, hash kırma, port tarama
-- **Simülasyon Scriptleri:** 150-200 TL
-  - Keylogger, DoS, phishing simülasyonları (eğitim amaçlı)
-- **Ağ ve Gizlilik Scriptleri:** 200-250 TL
-  - Tor route, sistem gizleme, log analizi
+**SCADA Güvenliği:**
+- Endüstriyel kontrol sistemleri mimarisi
+- SCADA güvenlik değerlendirmesi
+- ICS/SCADA saldırı vektörleri
 
-### 🕵️ Gizlilik ve Anonimlik
-- **Temel Gizlilik Rehberi:** 100-150 TL
-  - IP gizleme, güvenli tarama, anonim iletişim
-- **Karanlık Web Rehberi:** 150-200 TL
-  - Tor ağı kullanımı, güvenli gezinme, onion servisleri
-- **Kimlik Koruma Teknikleri:** 100-150 TL
-  - Dijital ayak izini azaltma, veri sızıntısı önleme
+**Kritik Altyapı Koruması:**
+- Enerji sektörü güvenliği
+- Su arıtma sistemleri koruması
+- Üretim tesisleri güvenliği
 
-### 🔧 Faydalı Araçlar ve Siteler
-- **Web Siteleri Koleksiyonu:** 50-80 TL
-  - 49+ faydalı web sitesi listesi ve kullanım rehberleri
-- **Mail Servisleri:** 50-70 TL
-  - Geçici mail, EDU mail, sınırsız mail açma
-- **Depolama Çözümleri:** 30-50 TL
-  - Google Drive sınırsız, ücretsiz 1TB depolama
+**OT/IT Yakınsama Güvenliği:**
+- Endüstriyel protokol güvenliği
+- PLC ve RTU güvenlik kontrolleri
+- ICS tehdit modelleme
 
-### 📦 Paket Fiyatları
-- **ZERODAY-V1:** 500-600 TL
-- **ZERODAY-V2:** 600-800 TL
-- **ZERODAY-V3:** 800-1000 TL
-- **ZERODAY-V4:** 1000-1200 TL
-- **ZERODAY-V5:** 800-1000 TL
-- **ZERODAY-V6:** 1200-1500 TL
-- **Tam Koleksiyon (V1-V6):** 3500-4500 TL
+### 🌐 ZERODAY-V11: Gelişmiş Ağ Güvenliği Paketi
+
+**Modern Ağ Mimarileri:**
+- Sıfır Güven (Zero Trust) mimarisi
+- Yazılım tanımlı ağlar güvenliği
+- Mikro-segmentasyon stratejileri
+
+**Bulut Ağ Güvenliği:**
+- Çok bulutlu ortam güvenliği
+- Konteyner ağ güvenliği
+- Serverless güvenlik kontrolleri
+
+**Gelecek Nesil Ağlar:**
+- 5G/6G güvenlik zorlukları
+- Kuantum-güvenli ağ protokolleri
+- Ağ davranış analizi
+
+### 🔬 ZERODAY-V12: Siber Güvenlik Araştırma ve Geliştirme Paketi
+
+**Araştırma Metodolojileri:**
+- Siber güvenlik araştırma çerçeveleri
+- Akademik ve endüstriyel araştırma yöntemleri
+- Etik araştırma prensipleri
+
+**Zafiyet Araştırması:**
+- Sıfır gün zafiyet keşif teknikleri
+- Güvenlik açığı araştırma metodolojisi
+- Sorumlu açıklama prensipleri
+
+**İnovasyon ve Gelecek:**
+- Siber güvenlik inovasyon stratejileri
+- Gelecek siber güvenlik trendleri
+- Savunma teknolojileri geliştirme
+
+## 💰 PAKET FİYATLANDIRMASI
+
+### 📊 Bireysel Paketler
+
+| Paket | Fiyat Aralığı | Seviye | Odak Alanı |
+|-------|--------------|--------|------------|
+| **ZERODAY-V1** | 400-500 TL | Başlangıç | Dijital Yaşam |
+| **ZERODAY-V2** | 500-600 TL | Başlangıç-Orta | Dijital Gizlilik |
+| **ZERODAY-V3** | 600-800 TL | Orta | Siber Güvenlik Temelleri |
+| **ZERODAY-V4** | 800-1000 TL | Orta-İleri | İleri Siber Güvenlik |
+| **ZERODAY-V5** | 700-900 TL | Orta | Gelişmiş Dijital Yaşam |
+| **ZERODAY-V6** | 900-1200 TL | Orta-İleri | Programlama & Optimizasyon |
+| **ZERODAY-V7** | 1000-1300 TL | İleri | Gelişen Teknolojiler |
+| **ZERODAY-V8** | 1100-1400 TL | İleri | Tehdit Analizi |
+| **ZERODAY-V9** | 1200-1500 TL | İleri | Veri Güvenliği |
+| **ZERODAY-V10** | 1300-1600 TL | Uzman | Endüstriyel Sistemler |
+| **ZERODAY-V11** | 1400-1700 TL | Uzman | Ağ Güvenliği |
+| **ZERODAY-V12** | 1500-1800 TL | Uzman | Araştırma & Geliştirme |
+
+### 📦 Kombine Paketler
+
+| Paket Kombinasyonu | Fiyat Aralığı | İçerik |
+|-------------------|--------------|--------|
+| **Başlangıç Seti (V1-V3)** | 1300-1700 TL | Dijital yaşam ve temel siber güvenlik |
+| **Siber Güvenlik Seti (V3-V4, V8)** | 2300-2900 TL | Kapsamlı siber güvenlik eğitimi |
+| **Dijital Yaşam Pro (V1, V2, V5)** | 1500-1800 TL | Tüm sosyal medya ve dijital yaşam içerikleri |
+| **Uzman Seti (V7-V12)** | 6500-8000 TL | İleri ve uzman seviye tüm içerikler |
+| **Tam Koleksiyon (V1-V12)** | 7500-9000 TL | Tüm ZERODAY içerikleri |
 
 > **Not:** Fiyatlar tahmini olup, içeriklerin kapsamına, güncelliğine ve piyasa koşullarına göre değişiklik gösterebilir.
 
-## ⚠️ Etik Kullanım ve Yasal Sorumluluk
+## 🔍 PAKET DETAYLARI
+
+### 📱 Sosyal Medya İçerikleri
+
+**Instagram Optimizasyonu:**
+- Algoritma analizi ve keşfet stratejileri
+- Takipçi artırma teknikleri
+- Hesap güvenliği ve kurtarma
+- Özel kullanıcı adı edinme
+
+**TikTok Stratejileri:**
+- Keşfete düşme algoritması
+- Viral içerik üretimi
+- Etkili hashtag kullanımı
+- İzlenme ve etkileşim artırma
+
+**YouTube Geliştirme:**
+- İzlenme süresi optimizasyonu
+- Abone kazanma stratejileri
+- Monetizasyon teknikleri
+- SEO ve anahtar kelime optimizasyonu
+
+**Discord ve WhatsApp:**
+- Sunucu yönetimi ve büyütme
+- Özel bot entegrasyonu
+- Gizlilik ve güvenlik ayarları
+- Gelişmiş özellikler ve ipuçları
+
+### 💻 Siber Güvenlik Eğitimleri
+
+**Başlangıç Seviyesi:**
+- Siber güvenlik temelleri
+- Temel güvenlik araçları kullanımı
+- Güvenli internet kullanımı
+- Şifre güvenliği ve yönetimi
+
+**Orta Seviye:**
+- Penetrasyon testi metodolojisi
+- Ağ güvenliği analizi
+- Web uygulama güvenliği
+- Zararlı yazılım analizi
+
+**İleri Seviye:**
+- Exploit geliştirme
+- Red Team operasyonları
+- Tehdit istihbaratı
+- Savunma stratejileri
+
+**Uzman Seviyesi:**
+- Sıfır gün zafiyet araştırması
+- Endüstriyel kontrol sistemleri güvenliği
+- Kuantum güvenliği
+- Siber güvenlik AR-GE
+
+### 🔧 Programlama ve Araçlar
+
+**Python Scriptleri:**
+- OSINT ve bilgi toplama
+- Güvenlik tarama ve analiz
+- Otomasyon ve verimlilik
+- Veri analizi ve görselleştirme
+
+**Web Geliştirme:**
+- PHP temel ve ileri seviye
+- Web güvenliği
+- Veritabanı yönetimi
+- Frontend geliştirme
+
+**Sistem Araçları:**
+- Windows ve Linux optimizasyonu
+- Ağ analiz araçları
+- Güvenlik değerlendirme araçları
+- Veri kurtarma ve koruma
+
+## ⚠️ ETİK KULLANIM VE YASAL SORUMLULUK
 
 ### 🚫 Yasak Kullanım Alanları
+
 - Başkalarına ait sistemlere izinsiz erişim
 - Kişisel verilerin izinsiz toplanması
 - Sosyal medya hesaplarının ele geçirilmesi
@@ -238,6 +338,7 @@ ZERODAY paketi, aşağıdaki kategorilerde bilgiler içermektedir ve her kategor
 - Telif hakkı ihlali
 
 ### ✅ İzin Verilen Kullanım Alanları
+
 - Kendi sistemlerinizde test yapmak
 - Kontrollü laboratuvar ortamlarında öğrenme
 - Siber güvenlik becerilerinizi geliştirmek
@@ -246,84 +347,43 @@ ZERODAY paketi, aşağıdaki kategorilerde bilgiler içermektedir ve her kategor
 - Kendi web sitelerinizde güvenlik testleri
 
 ### ⚖️ Yasal Sorumluluk Reddi
+
 - Bu paketteki tüm bilgiler sadece eğitim amaçlıdır
 - Kullanıcı, içerikleri kullanırken tüm yasal sorumluluğu üstlenir
 - İçeriklerin kötüye kullanımından doğacak hiçbir zarardan paket hazırlayıcıları sorumlu tutulamaz
 - Kullanıcı, bulunduğu ülkenin yasalarına uymakla yükümlüdür
 
-> **Önemli:** Siber güvenlik ve etik hacking alanında kariyer yapmak isteyenler için, resmi sertifikasyon programlarına (CEH, OSCP, CompTIA Security+ vb.) katılmanız önerilir.
+## 📈 ZERODAY GELİŞİM YOLCULUĞU
 
-## 📝 Kullanım Kılavuzu
+### 🔄 Versiyon Geçmişi
 
-### 📚 Rehberleri Kullanma
-1. İlgilendiğiniz konuya ait klasörü açın (V1, V2 veya V3 içerisinde)
-2. İçerisindeki .txt dosyalarını okuyun
-3. Rehberleri takip ederken, her zaman etik kurallara uygun hareket edin
-4. Öğrendiğiniz bilgileri sadece kendi sistemlerinizde veya izin alınmış ortamlarda uygulayın
+- **V1 (2021):** İlk sürüm - Temel dijital yaşam ve sosyal medya içerikleri
+- **V2 (2021):** Dijital gizlilik ve faydalı web siteleri eklendi
+- **V3 (2022):** Siber güvenlik temelleri ve OSINT teknikleri eklendi
+- **V4 (2022):** İleri siber güvenlik teknikleri ve penetrasyon testi içerikleri
+- **V5 (2022):** Gelişmiş sosyal medya ve dijital içerik üretimi
+- **V6 (2023):** Programlama eğitimleri ve sistem optimizasyonu
+- **V7 (2023):** Yapay zeka, blockchain ve gelişen teknolojiler güvenliği
+- **V8 (2023):** Tehdit analizi ve savunma stratejileri
+- **V9 (2023):** Veri güvenliği ve gizlilik teknolojileri
+- **V10 (2024):** Endüstriyel kontrol sistemleri güvenliği
+- **V11 (2024):** Gelişmiş ağ güvenliği ve sıfır güven mimarisi
+- **V12 (2024):** Siber güvenlik araştırma ve geliştirme metodolojileri
 
-### 💻 Python Scriptlerini Çalıştırma
-1. Script içeren .txt dosyasını açın
-2. Kodları bir metin editörüne kopyalayın (Notepad++, VS Code, vb.)
-3. Dosyayı `.py` uzantısı ile kaydedin (örn: `osint_tarayici.py`)
-4. Gerekli kütüphaneleri yükleyin:
-   ```bash
-   pip install requests beautifulsoup4 stem colorama
-   ```
-5. Scripti çalıştırın:
-   ```bash
-   python osint_tarayici.py
-   ```
-6. Scriptlerde hata alırsanız:
-   - Karakter kodlaması sorunlarını düzeltin
-   - Eksik kütüphaneleri yükleyin
-   - ChatGPT gibi yapay zeka araçlarından destek alın
+### 🚀 Gelecek Planlar
 
-### 🌐 Tor Tabanlı Scriptleri Kullanma
-1. Tor Browser'ı yükleyin ve çalıştırın
-2. Tor servisinin 9050 (SOCKS) ve 9051 (Kontrol) portlarında çalıştığından emin olun
-3. Scripti yukarıdaki adımları takip ederek çalıştırın
+ZERODAY ekibi olarak sürekli yeni içerikler ve güncellemeler üzerinde çalışıyoruz. Yakın gelecekte planlanan bazı paketler:
 
-### 📱 Sosyal Medya Rehberlerini Uygulama
-1. Rehberleri dikkatle okuyun
-2. Platform kurallarını ve yasal sınırlamaları göz önünde bulundurun
-3. Sadece kendi hesaplarınızda veya test amaçlı hesaplarda uygulayın
-4. Platformların güncellemeleriyle bazı yöntemler çalışmayabilir
+- **ZERODAY-V13:** Siber Güvenlik Otomasyon ve Orkestrasyon Paketi
+- **ZERODAY-V14:** Siber Güvenlik Yönetişim ve Uyumluluk Paketi
+- **ZERODAY-V15:** İleri Seviye Tehdit Avcılığı ve Adli Bilişim Paketi
 
-## 🔄 Versiyon Bilgileri ve Güncellemeler
+## 📞 İLETİŞİM VE DESTEK
 
-### 📊 Versiyon Karşılaştırması
-
-| Özellik | ZERODAY-V1 | ZERODAY-V2 | ZERODAY-V3 | ZERODAY-V4 | ZERODAY-V5 | ZERODAY-V6 |
-|---------|-----------|-----------|------------|-----------|-----------|------------|
-| Dosya Sayısı | 25+ | 15+ | 20+ | 10+ | 25+ | 40+ |
-| Siber Güvenlik | Temel | Orta | İleri | Uzman | Temel | Kapsamlı |
-| Python Scriptleri | 5+ | 3+ | 7+ | 10+ | 0 | 34+ |
-| Sosyal Medya | Temel Rehberler | Gelişmiş Teknikler | Platform Özellikleri | Minimal | Gelişmiş Rehberler | Seçili Rehberler |
-| Gizlilik | IP Gizleme | Anonim Tarama | Tor Ağı ve Karanlık Web | Ağ Güvenliği | Minimal | Orta |
-| Faydalı Araçlar | 20+ | 49+ | 30+ | 5+ | 10+ | 15+ |
-
-### 🆕 Güncelleme Geçmişi
-
-- **ZERODAY-V1:** İlk sürüm - Temel siber güvenlik, sosyal medya ve Python scriptleri
-- **ZERODAY-V2:** İkinci sürüm - V1'e ek olarak daha fazla sosyal medya rehberi ve faydalı web siteleri
-- **ZERODAY-V3:** Üçüncü sürüm - V1 ve V2'ye ek olarak ileri seviye siber güvenlik, karanlık web ve daha fazla Python scripti
-- **ZERODAY-V4:** Dördüncü sürüm - Uzman seviye siber güvenlik teknikleri ve ağ güvenliği araçları eklendi
-- **ZERODAY-V5:** Beşinci sürüm - Gelişmiş sosyal medya rehberleri ve platform özellikleri eklendi
-- **ZERODAY-V6:** Altıncı sürüm - Kapsamlı eğitim setleri, PHP programlama ve sistem optimizasyon araçları eklendi
-
-### 📈 Gelecek Güncellemeler
-
-ZERODAY paketi düzenli olarak güncellenmektedir. Gelecek güncellemelerde şunlar planlanmaktadır:
-
-- **ZERODAY-V7:** Yapay zeka güvenliği, makine öğrenimi model saldırıları ve savunma teknikleri
-- **ZERODAY-V8:** Blockchain ve kripto para güvenliği, akıllı kontrat analizi, kripto cüzdan koruması
-- **ZERODAY-V9:** Mobil uygulama güvenliği, Android ve iOS uygulama güvenlik testleri, mobil malware analizi
-- **ZERODAY-V10:** IoT güvenliği, nesnelerin interneti cihazlarında güvenlik açıkları, akıllı ev sistemleri koruması
-- **ZERODAY-V11:** Bulut güvenliği, AWS, Azure ve Google Cloud platformlarında güvenlik önlemleri, konteyner güvenliği
-- **ZERODAY-V12:** Quantum bilgisayar güvenliği, post-quantum kriptografi, gelecek nesil şifreleme teknikleri
+- **Discord:** [https://discord.gg/cshop](https://discord.gg/cshop)
+- **Telegram:** @zeroday_support
+- **E-posta:** info@zeroday.com
 
 ---
 
 *Bu README dosyası, ZERODAY paketinin içeriğini ve kullanımını açıklamak amacıyla oluşturulmuştur. Tüm içerikler sadece eğitim amaçlıdır. İçeriklerin kullanımından doğacak her türlü sorumluluk kullanıcıya aittir.*
-
-İletişim: https://discord.gg/cshop

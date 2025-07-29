@@ -353,18 +353,18 @@ ZERODAY, modern dijital dünyada ihtiyaç duyulan siber güvenlik, teknoloji ve 
 
 ### 🔄 Versiyon Geçmişi
 
-- **V1 (2021):** İlk sürüm - Temel dijital yaşam ve sosyal medya içerikleri
-- **V2 (2021):** Dijital gizlilik ve faydalı web siteleri eklendi
-- **V3 (2022):** Siber güvenlik temelleri ve OSINT teknikleri eklendi
-- **V4 (2022):** İleri siber güvenlik teknikleri ve penetrasyon testi içerikleri
-- **V5 (2022):** Gelişmiş sosyal medya ve dijital içerik üretimi
-- **V6 (2023):** Programlama eğitimleri ve sistem optimizasyonu
-- **V7 (2023):** Yapay zeka, blockchain ve gelişen teknolojiler güvenliği
-- **V8 (2023):** Tehdit analizi ve savunma stratejileri
-- **V9 (2023):** Veri güvenliği ve gizlilik teknolojileri
-- **V10 (2024):** Endüstriyel kontrol sistemleri güvenliği
-- **V11 (2024):** Gelişmiş ağ güvenliği ve sıfır güven mimarisi
-- **V12 (2024):** Siber güvenlik araştırma ve geliştirme metodolojileri
+- **V1 (2025):** İlk sürüm - Temel dijital yaşam ve sosyal medya içerikleri
+- **V2 (2025):** Dijital gizlilik ve faydalı web siteleri eklendi
+- **V3 (2025):** Siber güvenlik temelleri ve OSINT teknikleri eklendi
+- **V4 (2025):** İleri siber güvenlik teknikleri ve penetrasyon testi içerikleri
+- **V5 (2025):** Gelişmiş sosyal medya ve dijital içerik üretimi
+- **V6 (2025):** Programlama eğitimleri ve sistem optimizasyonu
+- **V7 (2025):** Yapay zeka, blockchain ve gelişen teknolojiler güvenliği
+- **V8 (2025):** Tehdit analizi ve savunma stratejileri
+- **V9 (2025):** Veri güvenliği ve gizlilik teknolojileri
+- **V10 (2025):** Endüstriyel kontrol sistemleri güvenliği
+- **V11 (2025):** Gelişmiş ağ güvenliği ve sıfır güven mimarisi
+- **V12 (2025):** Siber güvenlik araştırma ve geliştirme metodolojileri
 
 ### 🚀 Gelecek Planlar
 
@@ -377,9 +377,5 @@ ZERODAY ekibi olarak sürekli yeni içerikler ve güncellemeler üzerinde çalı
 ## 📞 İLETİŞİM VE DESTEK
 
 - **Discord:** [https://discord.gg/cshop](https://discord.gg/cshop)
-- **Telegram:** @zeroday_support
-- **E-posta:** info@zeroday.com
-
----
 
 *Bu README dosyası, ZERODAY paketinin içeriğini ve kullanımını açıklamak amacıyla oluşturulmuştur. Tüm içerikler sadece eğitim amaçlıdır. İçeriklerin kullanımından doğacak her türlü sorumluluk kullanıcıya aittir.*

@@ -325,3 +325,5 @@ ZERODAY paketi düzenli olarak güncellenmektedir. Gelecek güncellemelerde şun
 ---
 
 *Bu README dosyası, ZERODAY paketinin içeriğini ve kullanımını açıklamak amacıyla oluşturulmuştur. Tüm içerikler sadece eğitim amaçlıdır. İçeriklerin kullanımından doğacak her türlü sorumluluk kullanıcıya aittir.*
+
+İletişim: https://discord.gg/cshop

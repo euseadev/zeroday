@@ -376,6 +376,6 @@ ZERODAY ekibi olarak sürekli yeni içerikler ve güncellemeler üzerinde çalı
 
 ## 📞 İLETİŞİM VE DESTEK
 
-- **Discord:** [https://discord.gg/cshop](https://discord.gg/cshop)
+- Github issues.
 
 *Bu README dosyası, ZERODAY paketinin içeriğini ve kullanımını açıklamak amacıyla oluşturulmuştur. Tüm içerikler sadece eğitim amaçlıdır. İçeriklerin kullanımından doğacak her türlü sorumluluk kullanıcıya aittir.*
